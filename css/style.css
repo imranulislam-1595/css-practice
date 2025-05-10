@@ -1,0 +1,55 @@
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: darkblue;
+    text-transform: capitalize;
+}
+.title{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    margin: 0 0 0 0;
+}
+
+
+p{}
+/* h1{} */
+img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 0px auto;
+}
+h4{
+}
+
+
+img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 0px auto;   
+}
+h4{
+    
+font-size: 50px;
+    
+text-align: center;
+    
+color: blue;
+    
+text-transform: capitalize;
+}
+
+.description{
+    font-size: 20px;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 40px 20px 40px 100px;
+    margin: 20px 50px 107px 40px;
+    background-color: hotpink;
+}
+
+style {}
